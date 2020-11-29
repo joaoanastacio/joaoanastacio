@@ -3,8 +3,7 @@
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Hi there 👋 I'm João Victor Anastácio,
-=====================================
+### Hi there 👋 I'm João Victor Anastácio,
 A back-end developer working with **_Java_** in São Paulo, Brazil.
 
 - 🏢 I’m currently working full-time at [Alelo](https://www.alelo.com.br/) as a consultant.
@@ -12,8 +11,7 @@ A back-end developer working with **_Java_** in São Paulo, Brazil.
 - :bulb: I'm interested in: _back-end development, data engineering - especially data streaming, cloud computing and microservices_
 - 💜 Personal interests: indoor sports like hiking, radical sports, virtual reality, birds - especially parrots.
 
-Where I've been studying
-------------------------
+### Where I've been studying
 - Spring REST Specialist - [Algaworks](https://www.algaworks.com/)
 - Refactoring and Design Patterns - [Refactoring Guru](https://refactoring.guru/)
 - Jobs development with Spring Batch - [Udemy](https://www.udemy.com/course/curso-para-desenvolvimento-de-jobs-com-spring-batch/)
