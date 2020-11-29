@@ -9,7 +9,7 @@ A back-end developer working with **_Java_** in São Paulo, Brazil.
 - 🏢 I’m currently working full-time at [Alelo](https://www.alelo.com.br/) as a consultant.
 - 🌱 I'm always studying about `design patterns`, `best practices on API development`, `Java new features`, `functional programming` and `devops`.
 - :bulb: I'm interested in: _back-end development, data engineering - especially data streaming, cloud computing and microservices_
-- 💜 Personal interests: indoor sports like hiking, radical sports, virtual reality, birds - especially parrots.
+- 💜 Personal interests: outdoor sports like hiking, radical sports, virtual reality, birds - especially parrots.
 
 ### Where I've been studying
 - Spring REST Specialist - [Algaworks](https://www.algaworks.com/)
