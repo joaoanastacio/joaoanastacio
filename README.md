@@ -20,7 +20,6 @@ A back-end developer working with **_Java_** in São Paulo, Brazil.
 - Continuous Integration - [Udemy](https://www.udemy.com/course/integracao-continua-jenkins/)
 - Java Functional Programming - [Youtube](https://www.youtube.com/watch?v=VRpHdSFWGPs&list=PL-Q5UZnaPb6nsVjNExEtL3XtdCTuT-wUw&index=1)
 - Docker and Kubernetes - [Youtube](https://www.youtube.com/watch?v=VRpHdSFWGPs&list=PL-Q5UZnaPb6nsVjNExEtL3XtdCTuT-wUw&index=1)
-- Mathematics for Machine Learning - [Data Science Academy](https://www.datascienceacademy.com.br/course?courseid=matematica-para-machine-learning)
 
 <hr \>
 <p align="center">
