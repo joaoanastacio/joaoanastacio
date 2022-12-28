@@ -10,7 +10,7 @@
 - **Frameworks**:  &nbsp;                        Spring MVC (Spring Boot), Webflux, Spring Batch, Spring Cloud Ecossystem, Node (Express), Flask
 - **Tools**: &nbsp;                              Apache Kafka, NGINX, Gradle, Maven
 - **DevOps**:  &nbsp;          Linux, Git, Docker, CI/CD, Kubernetes, Terraform, Elastic Stack, Grafana, Dynatrace
-- **Cloud Providers**: &nbsp;                    AWS, Google Cloud Platform
+- **Cloud Providers**: &nbsp;                    AWS
 
 ## Connnect with Me 📬
 
