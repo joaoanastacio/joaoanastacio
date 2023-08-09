@@ -7,9 +7,9 @@
 
 ## Skills 🛠️
 - **Languages**: &nbsp;                          Java, JavaScript, Python, SQL
-- **Frameworks**:  &nbsp;                        Spring MVC (Spring Boot), Webflux, Spring Batch, Spring Cloud Ecossystem, Node (Express), Flask
+- **Frameworks**:  &nbsp;                        Spring, Spring Webflux, Spring Batch, Spring Cloud Ecossystem
 - **Tools**: &nbsp;                              Apache Kafka, NGINX, Gradle, Maven
-- **DevOps**:  &nbsp;          Linux, Git, Docker, CI/CD, Kubernetes, Terraform, Elastic Stack, Grafana, Dynatrace
+- **DevOps**:  &nbsp;                            Linux, Git, Docker, CI/CD, Kubernetes, Terraform,  Grafana
 - **Cloud Providers**: &nbsp;                    AWS
 
 ## Connnect with Me 📬
